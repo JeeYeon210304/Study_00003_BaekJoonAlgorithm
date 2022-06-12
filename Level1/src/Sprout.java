@@ -1,11 +1,11 @@
 
 public class Sprout {
 	public static void main(String[] args) {
-		String sprout  = "         ,r'\"7\r\n"
-						+ "r`-_   ,'  ,/\r\n"
-						+ " \\. \". L_r'\r\n"
-						+ "   `~\\/\r\n"
-						+ "      |\r\n"
+		String sprout  = "         ,r'\"7\n"
+						+ "r`-_   ,'  ,/\n"
+						+ " \\. \". L_r'\n"
+						+ "   `~\\/\n"
+						+ "      |\n"
 						+ "      |";
 		System.out.print(sprout);
 	}
